@@ -5,7 +5,7 @@ import {Counter} from "./components/Counter/Counter";
 const App: FC = () => {
     return (
         <div className="App">
-            <Counter/>
+            <Counter />
         </div>
     );
 }
